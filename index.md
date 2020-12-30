@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## Welcome to my homepage
-
 I am a researcher in the field of image analysis and computer vision applied to biology. My current positions: 
 
 - Director of the [Centre for Computational Biology](http://cbio.ensmp.fr)
@@ -54,4 +52,5 @@ I am a researcher in the field of image analysis and computer vision applied to 
   stimulating interdisciplinary exchange. The laboratory is located on
   the Paris campus of Institut Curie, near Pantheon.
 </div>
+
 
