@@ -2,11 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-title: Homepage Thomas Walter
+layout: page
+title: Home
 ---
-
-## Welcome to my homepage
 
 I am a researcher in the field of image analysis and computer vision applied to biology. My current positions: 
 
