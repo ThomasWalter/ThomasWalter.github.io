@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Positions
+permalink: /positions/
 ---
 
 Currently, there are no open positions.
