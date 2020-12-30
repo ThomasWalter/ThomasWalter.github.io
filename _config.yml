@@ -6,6 +6,7 @@ header_pages:
   - index.md
   - about.md
   - positions.md
+  - publications.md
 
 # >- # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
