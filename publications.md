@@ -41,13 +41,7 @@ Residual Cancer Burden In A Triple Negative Breast Cancer Cohort,” in
 9. P. Naylor, M. La, F. Reyal, and T. Walter, “Segmentation of Nuclei in
 Histopathology Images by deep regression of the distance map,” *IEEE
 Transactions on Medical Imaging*, vol. 38, no. 2, pp. 448–459, 2019,
-doi:
-[10.1109/TMI.2018.2865709](https://doi.org/10.1109/TMI.2018.2865709).
-10. R. Chouaib *et al.*, “A Localization Screen Reveals Translation
-Factories and Widespread Co-Translational Protein Targeting,” Social
-Science Research Network, Rochester, NY, SSRN Scholarly Paper ID
-3300043, Dec. 2018. Accessed: Feb. 23, 2020. \[Online\]. Available:
-<https://papers.ssrn.com/abstract=3300043>.
+doi: [10.1109/TMI.2018.2865709](https://doi.org/10.1109/TMI.2018.2865709).
 11. J. Boyd, A. Pinhiero, E. D. Nery, F. Reyal, and T. Walter, “Analysing
 double-strand breaks in cultured cells for drug screening applications
 by causal inference,” in *International Symposium on Biomedical Imaging
@@ -55,12 +49,10 @@ by causal inference,” in *International Symposium on Biomedical Imaging
 [10.1109/ISBI.2018.8363612](https://doi.org/10.1109/ISBI.2018.8363612).
 12. A. Samacoits *et al.*, “A computational framework to study sub-cellular
 RNA localization,” *Nature Communications*, vol. 9, no. 1, p. 4584,
-2018, doi:
-[10.1038/s41467-018-06868-w](https://doi.org/10.1038/s41467-018-06868-w).
+2018, doi: [10.1038/s41467-018-06868-w](https://doi.org/10.1038/s41467-018-06868-w).
 13. E. Bernard, Y. Jiao, E. Scornet, V. Stoven, T. Walter, and J.-P. Vert,
 “Kernel multitask regression for toxicogenetics,” *Molecular
-Informatics*, vol. 36, Jan. 2017, \[Online\]. Available:
-<http://biorxiv.org/content/early/2017/08/01/171298.abstract>.
+Informatics*, vol. 36, Jan. 2017, \[Online\]. Available: <http://biorxiv.org/content/early/2017/08/01/171298.abstract>.
 14. P. Naylor, M. Lae, F. Reyal, and T. Walter, “Nuclei Segmentation in
 Histopathology Images Using Deep Neural Networks,” *2017 IEEE 14th
 International Symposium on Biomedical Imaging (ISBI 2017)*, pp. IEEE;
@@ -80,8 +72,7 @@ Research*, vol. 44, no. 22, 2016, doi:
 [10.1093/nar/gkw784](https://doi.org/10.1093/nar/gkw784).
 18. F. Eduati *et al.*, “Prediction of human population responses to toxic
 compounds by a collaborative competition,” *Nature Biotechnology*, vol.
-33, p. 933, Aug. 2015, \[Online\]. Available:
-<https://doi.org/10.1038/nbt.3299>.
+33, p. 933, Aug. 2015, \[Online\]. Available: <https://doi.org/10.1038/nbt.3299>.
 19. V. Machairas, E. Decencière, and T. Walter, “Spatial Repulsion Between
 Markers Improves Watershed Performance,” 2015.
 20. V. Machairas, E. Decencière, and T. Walter, “Spatial Repulsion Between
