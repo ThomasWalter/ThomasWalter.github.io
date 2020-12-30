@@ -4,77 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
-<div id="refs" class="references csl-bib-body" role="doc-bibliography">
-
-<div id="ref-Chouaib2020" class="csl-entry" role="doc-biblioentry">
-
-<div class="csl-left-margin">
-
-\[1\]
-
-</div>
-
-<div class="csl-right-inline">
-
-R. Chouaib *et al.*, “A Dual Protein-<span class="nocase">mRNA
+1. R. Chouaib *et al.*, “A Dual Protein-<span class="nocase">mRNA
 Localization Screen Reveals Compartmentalized Translation</span> and
 Widespread Co-translational RNA Targeting,” *Developmental Cell*, vol.
 54, no. 6, pp. 773–791.e5, Sep. 2020, doi:
 [10.1016/j.devcel.2020.07.010](https://doi.org/10.1016/j.devcel.2020.07.010).
-
-</div>
-
-</div>
-
-<div id="ref-Walter2020" class="csl-entry" role="doc-biblioentry">
-
-<div class="csl-left-margin">
-
-\[2\]
-
-</div>
-
-<div class="csl-right-inline">
-
-T. Walter, “<span class="nocase">Bioimage Informatics for
+2. T. Walter, “<span class="nocase">Bioimage Informatics for
 Phenomics</span>,” Habilitation à diriger des recherches, Sorbonne
 Université, 2020.
-
-</div>
-
-</div>
-
-<div id="ref-J.Boyd2020a" class="csl-entry" role="doc-biblioentry">
-
-<div class="csl-left-margin">
-
-\[3\]
-
-</div>
-
-<div class="csl-right-inline">
-
-J. Boyd, Z. Gouveia, F. Perez, and T. Walter, “Experimentally-Generated
+3. J. Boyd, Z. Gouveia, F. Perez, and T. Walter, “Experimentally-Generated
 Ground Truth for Detecting Cell Types in an Image-Based Immunotherapy
 Screen,” in *2020 IEEE 17th International Symposium on Biomedical
 Imaging (ISBI)*, Apr. 2020, pp. 886–890, doi:
 [10.1109/ISBI45749.2020.9098696](https://doi.org/10.1109/ISBI45749.2020.9098696).
-
-</div>
-
-</div>
-
-<div id="ref-Boyd2019" class="csl-entry" role="doc-biblioentry">
-
-<div class="csl-left-margin">
-
-\[4\]
-
-</div>
-
-<div class="csl-right-inline">
-
-J. C. Boyd, A. Pinheiro, E. D. Nery, F. Reyal, and T. Walter,
+4. J. C. Boyd, A. Pinheiro, E. D. Nery, F. Reyal, and T. Walter,
 “Domain-invariant features for mechanism of action prediction in a
 multi-cell-line drug screen,” *Bioinformatics*, Oct. 2019, doi:
 [10.1093/bioinformatics/btz774](https://doi.org/10.1093/bioinformatics/btz774).
