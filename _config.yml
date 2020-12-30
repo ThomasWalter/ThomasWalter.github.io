@@ -18,5 +18,6 @@ twitter_username: ThomasW04410315
 github_username:  tontonthomas
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
+#theme: jekyll-theme-minimal
 #theme: minimal-mistakes-jekyll
