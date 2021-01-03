@@ -31,15 +31,13 @@
 # github_username:  tontonthomas
 
 # Build settings
-#remote_theme: "mmistakes/minimal-mistakes@4.21.0"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+#theme: minimal-mistakes-jekyll
 #theme: jekyll-theme-minimal
 #theme: minima
 #theme: jekyll-theme-hamilton
   #jekyll-theme-hacker
 
-#plugins:
-#   - jekyll-include-cache
 
 # defaults:
 #   -
