@@ -30,7 +30,7 @@ The [CBIO](https://cbio.ensmp.fr) is a research centre of [Mines ParisTech](http
 The CBIO has a strategic partnership with the [Institut Curie](https://curie.fr) and INSERM, and is part of the mixed unit [U900-CBIO](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/) dedicated to Bioinformatics, Epidemiology and Systems Biology of cancer.  
 
 
-## Bioimage Analysis at the Centre for Computational Biology (CBIO)
+## Bioimage Analysis at the CBIO and the Institut Curie
 
 My own research field is **Bioimage Informatics**. My team develops methods and tools to analyse image data in biology and medecine. In particular, we develop computer vision methods to analyse cellular and tissular phenotypes. 
 
