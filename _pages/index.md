@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Thomas Walter
+description: "Homepage of Thomas Walter. Thomas Walter is a researcher in Computer Vision for Biology and Medecine. Main applications: High Content Screening, Spatial Transcriptomics, computational pathology. He leads the Centre for Computational Biology (CBIO) at Mines ParisTech, dedicated to the development of new Machine Learning methods for the life sciences."
 excerpt: "Computer Vision for Bioimage Analysis"
 permalink: /
 header:
