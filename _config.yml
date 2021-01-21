@@ -90,7 +90,7 @@ minimal_mistakes_skin    : "air" #, "aqua", "contrast", "dark", "dirt", "neon", 
 locale                   : "en-US"
 title                    : "Homepage Thomas Walter"
 title_separator          : "|"
-subtitle                 : "Research in Bioimage Informatics"
+subtitle                 : "Bioimage Informatics"
 name                     : "Thomas Walter"
 description              : "Personal website of Thomas Walter. Thomas Walter is a researcher in Bioimage Informatics."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -171,10 +171,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thomas Walter"
+  name             : "Thomas Walter, PhD"
   avatar           : /images/ThomasWalter_portrait.png 
   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher in Bioimage Informatics, Mines ParisTech, Institut Curie. Director of the Centre for Computational Biology."
+  bio              : "Director of the Centre for Computational Biology. Researcher in Bioimage Informatics, Mines ParisTech, Institut Curie."
   location         : "Paris, France"
   email            : "Thomas.Walter@mines-paristech.fr"
   links:
