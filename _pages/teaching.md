@@ -5,7 +5,7 @@ permalink: /teaching/
 
 ## 2021
 
-- Deep Learning for Image Analysis (organizer/lecturer, 40h/12h, [master IASD](https://www.lamsade.dauphine.fr/wp/iasd/), Université Dauhphine, Mines ParisTech, ENS), January-February 2020.
+- Deep Learning for Image Analysis (organizer/lecturer, 40h/12h, [master IASD](https://www.lamsade.dauphine.fr/wp/iasd/), Université Dauhphine, Mines ParisTech, ENS), January-February 2021.
 
 ## 2020
 
