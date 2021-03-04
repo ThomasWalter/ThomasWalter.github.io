@@ -2,7 +2,11 @@
 title: Publications
 permalink: /publications/
 ---
-
+1. A. Safieddine *et al.*, “A choreography of centrosomal <span
+class="nocase">mRNAs</span> reveals a conserved localization mechanism
+involving active polysome transport,” *Nature Communications*, vol. 12,
+no. 1, p. 1352, Mar. 2021, doi:
+[10.1038/s41467-021-21585-7](https://doi.org/10.1038/s41467-021-21585-7).
 1. X. Pichon *et al.*, “The kinesin KIF1C transports APC-dependent mRNAs to
 cell protrusions,” *bioRxiv*, 2020, doi:[10.1101/2020.11.30.403394](https://doi.org/10.1101/2020.11.30.403394).
 1. M. Balluet *et al.*, “Neural network fast-classifies biological images
@@ -77,8 +81,6 @@ Research*, vol. 44, no. 22, 2016, doi:
 18. F. Eduati *et al.*, “Prediction of human population responses to toxic
 compounds by a collaborative competition,” *Nature Biotechnology*, vol.
 33, p. 933, Aug. 2015, \[Online\]. Available: <https://doi.org/10.1038/nbt.3299>.
-19. V. Machairas, E. Decencière, and T. Walter, “Spatial Repulsion Between
-Markers Improves Watershed Performance,” 2015.
 20. V. Machairas, E. Decencière, and T. Walter, “Spatial Repulsion Between
 Markers Improves Watershed Performance BT - Mathematical Morphology and
 Its Applications to Signal and Image Processing,” 2015, pp. 194–202.
