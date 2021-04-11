@@ -2,15 +2,15 @@
 title: Publications
 permalink: /publications/
 ---
-1. S. Curras-Alonso, J. Soulier, T. Walter, F. Mueller, A. Londoño-Vallejo,
-and C. Fouillade, “Spatial transcriptomics for respiratory research and
-medicine,” *Eur Respir J*, p. 2004314, Jan. 2021, doi:
-[10.1183/13993003.04314-2020](https://doi.org/10.1183/13993003.04314-2020).
 1. A. Safieddine *et al.*, “A choreography of centrosomal <span
 class="nocase">mRNAs</span> reveals a conserved localization mechanism
 involving active polysome transport,” *Nature Communications*, vol. 12,
 no. 1, p. 1352, Mar. 2021, doi:
 [10.1038/s41467-021-21585-7](https://doi.org/10.1038/s41467-021-21585-7).
+1. S. Curras-Alonso, J. Soulier, T. Walter, F. Mueller, A. Londoño-Vallejo,
+and C. Fouillade, “Spatial transcriptomics for respiratory research and
+medicine,” *Eur Respir J*, p. 2004314, Jan. 2021, doi:
+[10.1183/13993003.04314-2020](https://doi.org/10.1183/13993003.04314-2020).
 1. X. Pichon *et al.*, “The kinesin KIF1C transports APC-dependent mRNAs to
 cell protrusions,” *bioRxiv*, 2020, doi:[10.1101/2020.11.30.403394](https://doi.org/10.1101/2020.11.30.403394).
 1. M. Balluet *et al.*, “Neural network fast-classifies biological images
