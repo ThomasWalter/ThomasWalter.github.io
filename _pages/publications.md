@@ -23,7 +23,7 @@ Widespread Co-translational RNA Targeting,” *Developmental Cell*, vol.
 [10.1016/j.devcel.2020.07.010](https://doi.org/10.1016/j.devcel.2020.07.010).
 2. T. Walter, “<span class="nocase">Bioimage Informatics for
 Phenomics</span>,” Habilitation à diriger des recherches, Sorbonne
-Université, 2020.
+Université, 2020,[tel-02981391](https://hal.inria.fr/ENSMP_DEP_MS/tel-02981391v1).
 3. J. Boyd, Z. Gouveia, F. Perez, and T. Walter, “Experimentally-Generated
 Ground Truth for Detecting Cell Types in an Image-Based Immunotherapy
 Screen,” in *2020 IEEE 17th International Symposium on Biomedical
