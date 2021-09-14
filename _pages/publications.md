@@ -2,6 +2,13 @@
 title: Publications
 permalink: /publications/
 ---
+1. T. Lazard *et al.*, “Deep learning identifies new morphological patterns
+of homologous recombination deficiency in luminal breast cancers from
+whole slide images,” *bioRxiv*, 2021, doi:
+[10.1101/2021.09.10.459734](https://doi.org/10.1101/2021.09.10.459734)
+1. A. Imbert *et al.*, “FISH-quant v2: A scalable and modular analysis tool
+for smFISH image analysis,” *bioRxiv*, 2021, doi:
+[10.1101/2021.07.20.453024](https://doi.org/10.1101/2021.07.20.453024).
 1. A. Safieddine *et al.*, “A choreography of centrosomal <span
 class="nocase">mRNAs</span> reveals a conserved localization mechanism
 involving active polysome transport,” *Nature Communications*, vol. 12,
