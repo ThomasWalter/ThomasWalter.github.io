@@ -19,7 +19,7 @@ and C. Fouillade, “Spatial transcriptomics for respiratory research and
 medicine,” *Eur Respir J*, p. 2004314, Jan. 2021, doi:
 [10.1183/13993003.04314-2020](https://doi.org/10.1183/13993003.04314-2020).
 1. X. Pichon *et al.*, “The kinesin KIF1C transports APC-dependent mRNAs to
-cell protrusions,” *bioRxiv*, 2020, doi:[10.1101/2020.11.30.403394](https://doi.org/10.1101/2020.11.30.403394).
+cell protrusions,” *RNA*, 2020, doi:[10.1261/rna.078576.120](https://doi.org/10.1261/rna.078576.120).
 1. M. Balluet *et al.*, “Neural network fast-classifies biological images
 using features selected after their random-forests-importance to power
 smart microscopy.” 2020, \[Online\]. Available: <http://arxiv.org/abs/2012.10331>.
