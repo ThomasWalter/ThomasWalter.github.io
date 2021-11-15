@@ -5,6 +5,10 @@ permalink: /teaching/
 
 ## 2021
 
+- Deep Learning for Image Analysis (organizer/lecturer, 40h/12h, Mines ParisTech), Oct-Nov 2021.
+- Bioimage Informatics for Computational Phenotyping ([Master IRIV](https://www.master-iriv.fr), lecturer, 8h, Télécom Physique Strasbourg), Nov 2021.
+- [MifoBio 2021](http://imabio-cnrs.fr/mifobio/presentation-de-mifobio/) (co-organizer, GDR ImaBio), Nov 2021.
+- [EMBO course on Computational Systems Biology of Cancer](https://training.institut-curie.org/courses/sysbiocancer2021) (organizer/lecturer, 40h/1h, Institut Curie), Sep 2021.
 - Deep Learning for Image Analysis (organizer/lecturer, 40h/12h, [master IASD](https://www.lamsade.dauphine.fr/wp/iasd/), Université Dauhphine, Mines ParisTech, ENS), January-February 2021.
 
 ## 2020
