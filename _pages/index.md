@@ -17,6 +17,7 @@ I am a researcher in the field of image analysis and computer vision applied to 
 
 My current positions: 
 
+- Full processor at [Ecole des Mines de Paris](https://www.minesparis.psl.eu)
 - Director of the [Centre for Computational Biology (CBIO)](https://cbio.ensmp.fr)
 - Codirector of the department [Cancer and Genome: Bioinformatics, Biostatistics, Epidemiology of Complex Systems](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/)
 - Chair at the Paris Artifical Intelligence Research Institute [PRAIRIE](https://prairie-institute.fr)
