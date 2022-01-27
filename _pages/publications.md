@@ -2,6 +2,9 @@
 title: Publications
 permalink: /publications/
 ---
+1. M. Lubrano di Scandalea *et al.*, “Automatic grading of cervical
+biopsies by combining full and self-supervision,” Jan. 2022, doi:
+[10.1101/2022.01.14.476330](https://doi.org/10.1101/2022.01.14.476330).
 1. T. Lazard *et al.*, “Deep learning identifies new morphological patterns
 of homologous recombination deficiency in luminal breast cancers from
 whole slide images,” *bioRxiv*, 2021, doi:
