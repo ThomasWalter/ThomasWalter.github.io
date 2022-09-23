@@ -2,6 +2,10 @@
 title: Publications
 permalink: /publications/
 ---
+1. P. Naylor *et al.*, “Prediction of Treatment Response in Triple Negative
+Breast Cancer From Whole Slide Images,” *Frontiers in Signal
+Processing*, vol. 2, p. 851809, Jun. 2022, doi:
+[10.3389/frsip.2022.851809](https://doi.org/10.3389/frsip.2022.851809).
 1. M. Lubrano di Scandalea *et al.*, “Automatic grading of cervical
 biopsies by combining full and self-supervision,” Jan. 2022, doi:
 [10.1101/2022.01.14.476330](https://doi.org/10.1101/2022.01.14.476330).
