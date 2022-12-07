@@ -9,8 +9,9 @@ segmentation,” Oct. 2022, p. 14.
 1. A. Imbert, F. Mueller, and T. Walter, “PointFISH: Learning Point Cloud
 Representations for RNA Localization Patterns,” Oct. 2022, p. 17.
 1. M. Lubrano *et al.*, “Automatic grading of cervical biopsies by
-combining full and self-supervision,” Oct. 2022, doi:
-[10.1101/2022.01.14.476330](https://doi.org/10.1101/2022.01.14.476330).
+combining full and self-supervision,” in *Workshop on AI-enabled medical
+image analysis (AIMIA) at the European Conference on Computer Vision
+(ECCV)*, Oct. 2022, p. 14.
 1. A. Safieddine *et al.*, “HT-<span class="nocase">smFISH</span>: A
 cost-effective and flexible workflow for high-throughput single-molecule
 RNA imaging,” *Nature Protocols*, Oct. 2022, doi:
