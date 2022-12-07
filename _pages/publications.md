@@ -2,6 +2,23 @@
 title: Publications
 permalink: /publications/
 ---
+
+1. T. Bonte, M. Philbert, E. Coleno, A. Imbert, and T. Walter, “Learning
+with minimal effort: Leveraging in silico labeling for cell and nucleus
+segmentation,” Oct. 2022, p. 14.
+1. A. Imbert, F. Mueller, and T. Walter, “PointFISH: Learning Point Cloud
+Representations for RNA Localization Patterns,” Oct. 2022, p. 17.
+1. M. Lubrano *et al.*, “Automatic grading of cervical biopsies by
+combining full and self-supervision,” Oct. 2022, doi:
+[10.1101/2022.01.14.476330](https://doi.org/10.1101/2022.01.14.476330).
+1. A. Safieddine *et al.*, “HT-<span class="nocase">smFISH</span>: A
+cost-effective and flexible workflow for high-throughput single-molecule
+RNA imaging,” *Nature Protocols*, Oct. 2022, doi:
+[10.1038/s41596-022-00750-2](https://doi.org/10.1038/s41596-022-00750-2).
+1. A. Imbert *et al.*, “<span class="nocase">FISH-quant</span> v2: A
+scalable and modular tool for <span class="nocase">smFISH</span> image
+analysis,” *RNA*, p. rna.079073.121, Mar. 2022, doi:
+[10.1261/rna.079073.121](https://doi.org/10.1261/rna.079073.121).
 1. P. Naylor *et al.*, “Prediction of Treatment Response in Triple Negative
 Breast Cancer From Whole Slide Images,” *Frontiers in Signal
 Processing*, vol. 2, p. 851809, Jun. 2022, doi:
