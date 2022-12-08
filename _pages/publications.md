@@ -2,7 +2,9 @@
 title: Publications
 permalink: /publications/
 ---
-
+1. T. Lazard *et al.*, “Deep learning identifies morphological patterns
+of homologous recombination deficiency in luminal breast cancers from
+whole slide images,” *Cell Reports Medicine*, 2022, (in print)
 1. A. Imbert, F. Mueller, and T. Walter, “PointFISH: Learning Point Cloud
 Representations for RNA Localization Patterns,” in *Bioimage Computing
 (BIC) at European Conference on Computer Vision (ECCV)*, Oct. 2022, p.
