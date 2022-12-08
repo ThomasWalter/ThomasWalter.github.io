@@ -174,7 +174,7 @@ author:
   name             : "Thomas Walter, PhD"
   avatar           : /images/ThomasWalter_portrait.png 
   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Director of the Centre for Computational Biology. Full Professor at Ecole des Mines de Paris. Researcher in Bioimage Informatics, Mines ParisTech, Institut Curie."
+  bio              : "Director of the Centre for Computational Biology. Full Professor at Ecole des Mines de Paris. Researcher in Bioimage Informatics, Mines Paris, Institut Curie."
   location         : "Paris, France"
   email            : "Thomas.Walter@mines-paristech.fr"
   links:
