@@ -2,6 +2,11 @@
 title: Publications
 permalink: /publications/
 ---
+1. M. Lubrano, Y. Bellahsen-Harrar, S. Berlemont, T. Walter, and C.
+Badoual, “Diagnosis with Confidence: Deep Learning for Reliable
+Classification of Squamous Lesions of the Upper Aerodigestive Tract,”
+Bioinformatics, preprint, Dec. 2022. doi:
+[10.1101/2022.12.21.521392](https://doi.org/10.1101/2022.12.21.521392).
 1. T. Lazard *et al.*, “Deep learning identifies morphological patterns of
 homologous recombination deficiency in luminal breast cancers from whole
 slide images,” *Cell Reports Medicine*, p. 100872, Dec. 2022, doi:
