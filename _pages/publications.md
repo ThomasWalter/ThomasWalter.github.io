@@ -23,6 +23,8 @@ Accessed: Mar. 11, 2023. doi: [10.48550/arXiv.2302.10923](http://arxiv.org/abs/2
 1. T. Bonte, M. Philbert, E. Coleno, E. Bertrand, A. Imbert, and T. Walter,
 “Learning with minimal effort: Leveraging in silico labeling for cell
 and nucleus segmentation.” arXiv, Jan. 10, 2023. doi: [10.48550/arXiv.2301.03914](http://arxiv.org/abs/2301.03914)
+1. T. Lazard, M. Lerousseau, E. Decencière, and T. Walter, “Giga-SSL:
+Self-Supervised Learning for Gigapixel Images.” arXiv, Dec. 2022, doi: [10.48550/arXiv.2212.03273](http://arxiv.org/abs/2212.03273).
 1. M. Lubrano, Y. Bellahsen-Harrar, S. Berlemont, T. Walter, and C.
 Badoual, “Diagnosis with Confidence: Deep Learning for Reliable
 Classification of Squamous Lesions of the Upper Aerodigestive Tract,”
