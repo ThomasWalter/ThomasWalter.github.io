@@ -5,8 +5,8 @@ permalink: /publications/
 
 1. M. Lubrano, Y. Bellahsen-Harrar, R. Fick, C. Badoual, and T. Walter,
 “Simple and efficient confidence score for grading whole slide images.”
-arXiv, Mar. 08, 2023, Accessed: Mar. 11, 2023. \[Online\]. Available:
-<http://arxiv.org/abs/2303.04604>.
+arXiv, Mar. 08, 2023, Accessed: Mar. 11, 2023. doi:
+[10.48550/arXiv.2303.04604](http://arxiv.org/abs/2303.04604)
 1. T. Bonte, M. Philbert, E. Coleno, E. Bertrand, A. Imbert, and T. Walter,
 “Learning with minimal effort: Leveraging in silico labeling for cell
 and nucleus segmentation,” in *Computer vision – ECCV 2022 workshops*,
@@ -19,12 +19,11 @@ by combining full and self-supervision,” in *Computer vision – ECCV 2022
 workshops*, 2023, pp. 408–423.
 1. A. Imbert, F. Mueller, and T. Walter, “PointFISH – learning point cloud
 representations for RNA localization patterns.” arXiv, Feb. 21, 2023,
-Accessed: Mar. 11, 2023. \[Online\]. Available:
-<http://arxiv.org/abs/2302.10923>.
+Accessed: Mar. 11, 2023. doi: [10.48550/arXiv.2302.10923](http://arxiv.org/abs/2302.10923)
 1. T. Bonte, M. Philbert, E. Coleno, E. Bertrand, A. Imbert, and T. Walter,
 “Learning with minimal effort: Leveraging in silico labeling for cell
 and nucleus segmentation.” arXiv, Jan. 10, 2023, Accessed: Mar. 11,
-2023. \[Online\]. Available: <http://arxiv.org/abs/2301.03914>.
+2023. doi: [10.48550/arXiv.2301.03914](http://arxiv.org/abs/2301.03914)
 1. M. Lubrano, Y. Bellahsen-Harrar, S. Berlemont, T. Walter, and C.
 Badoual, “Diagnosis with Confidence: Deep Learning for Reliable
 Classification of Squamous Lesions of the Upper Aerodigestive Tract,”
