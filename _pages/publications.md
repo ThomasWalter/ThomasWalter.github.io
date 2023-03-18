@@ -8,15 +8,18 @@ permalink: /publications/
 arXiv, Mar. 08, 2023. doi:
 [10.48550/arXiv.2303.04604](http://arxiv.org/abs/2303.04604)
 1. T. Bonte, M. Philbert, E. Coleno, E. Bertrand, A. Imbert, and T. Walter,
-“Learning with minimal effort: Leveraging in silico labeling for cell
-and nucleus segmentation,” in *Computer vision – ECCV 2022 workshops*,
-2023, pp. 423–436.
-1. A. Imbert, F. Mueller, and T. Walter, “PointFISH: Learning point cloud
-representations for RNA localization patterns,” in *Computer vision –
-ECCV 2022 workshops*, 2023, pp. 487–502.
-1. M. Lubrano *et al.*, “Automatic grading of cervical biopsies
-by combining full and self-supervision,” in *Computer vision – ECCV 2022
-workshops*, 2023, pp. 408–423.
+“Learning with Minimal Effort: Leveraging in Silico Labeling for Cell
+and Nucleus Segmentation,” in *Computer Vision – ECCV 2022 Workshops*,
+2023, pp. 423–436, doi:
+[10.1007/978-3-031-25069-9\_28](https://doi.org/10.1007/978-3-031-25069-9_28).
+1. A. Imbert, F. Mueller, and T. Walter, “PointFISH: Learning Point Cloud
+Representations for RNA Localization Patterns,” in *Computer Vision –
+ECCV 2022 Workshops*, 2023, pp. 487–502, doi:
+[10.1007/978-3-031-25069-9\_32](https://doi.org/10.1007/978-3-031-25069-9_32).
+1. M. Lubrano *et al.*, “Automatic Grading of Cervical Biopsies
+by Combining Full and <span class="nocase">Self-supervision</span>,” in
+*Computer Vision – ECCV 2022 Workshops*, 2023, pp. 408–423, doi:
+[10.1007/978-3-031-25082-8\_27](https://doi.org/10.1007/978-3-031-25082-8_27).
 1. A. Imbert, F. Mueller, and T. Walter, “PointFISH – learning point cloud
 representations for RNA localization patterns.” arXiv, Feb. 21, 2023,
 Accessed: Mar. 11, 2023. doi: [10.48550/arXiv.2302.10923](http://arxiv.org/abs/2302.10923)
@@ -46,7 +49,7 @@ analysis,” *RNA*, p. rna.079073.121, Mar. 2022, doi:
 Breast Cancer From Whole Slide Images,” *Frontiers in Signal
 Processing*, vol. 2, p. 851809, Jun. 2022, doi:
 [10.3389/frsip.2022.851809](https://doi.org/10.3389/frsip.2022.851809).
-M. Lubran di Scandalea *et al.*, “Automatic grading of cervical biopsies
+1. M. Lubrano di Scandalea *et al.*, “Automatic grading of cervical biopsies
 by combining full and self-supervision,” *bioRxiv*, p.
 2022.01.14.476330, Jan. 2022, doi:
 [10.1101/2022.01.14.476330](https://doi.org/10.1101/2022.01.14.476330).
