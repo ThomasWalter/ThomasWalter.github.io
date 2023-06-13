@@ -5,7 +5,7 @@ permalink: /teaching/
 
 ## 2022
 
-- - Deep Learning for Image Analysis: Applications in Biology and Medecine ([Master Cancerology](https://www.universite-paris-saclay.fr/en/education/master/life-sciences-and-health/m2-cancerology), lecturer, 1h, Université Paris-Saclay), Dec 14 2022.
+- Deep Learning for Image Analysis: Applications in Biology and Medecine ([Master Cancerology](https://www.universite-paris-saclay.fr/en/education/master/life-sciences-and-health/m2-cancerology), lecturer, 1h, Université Paris-Saclay), Dec 14 2022.
 - Deep Learning for Image Analysis (organizer/lecturer, 40h/12h, Mines Paris), Oct-Nov 2022.
 - Fondamentaux du Machine Learning (lecturer, 24h, PRAIRIE), Nov 2022.
 - Trimestre recherche R-santé (lecturer, 2h, Mines Paris), Nov 2022.
