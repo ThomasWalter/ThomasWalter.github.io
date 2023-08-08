@@ -3,22 +3,22 @@ title: Publications
 permalink: /publications/
 ---
 
+1. M. Lubrano, Y. Bellahsen-Harrar, R. Fick, C. Badoual, and T. Walter,
+“Simple and Eﬃcient Conﬁdence Score for Grading Whole Slide Images,” in
+*Proceedings of Machine Learning Research*, Jul. 2023, vol. 58, pp.
+1–19.
+1. D. Zyss, S. A. Ribeiro, M. J. C. Ludlam, T. Walter, and A. Fehri, “Cell
+Segmentation in Images Without Structural Fluorescent Labels,” *Biol.
+Imaging*, pp. 1–18, Jul. 2023, doi:
+[10.1017/S2633903X23000168](https://doi.org/10.1017/S2633903X23000168).
+1. Y. Bellahsen-Harrar *et al.*, “AI-Augmented Pathology for Head and Neck
+Squamous Lesions Improves Non-HN Pathologist Agreement to Expert Level,”
+Pathology, preprint, Jul. 2023. doi:
+[10.1101/2023.07.23.23292962](https://doi.org/10.1101/2023.07.23.23292962).
 1. T. Lazard, M. Lerousseau, E. Decencière, and T. Walter, “Giga-SSL: <span
 class="nocase">Self-supervised</span> learning for gigapixel images,” in
 *Proceedings of the IEEE/CVF conference on computer vision and pattern
 recognition (CVPR) workshops*, Jun. 2023, pp. 4304–4313.
-2. Y. Bellahsen-Harrar *et al.*, “AI-Augmented Pathology for Head and Neck
-Squamous Lesions Improves Non-HN Pathologist Agreement to Expert Level,”
-Pathology, preprint, Jul. 2023. doi:
-[10.1101/2023.07.23.23292962](https://doi.org/10.1101/2023.07.23.23292962).
-3. M. Lubrano, Y. Bellahsen-Harrar, R. Fick, C. Badoual, and T. Walter,
-“Simple and Eﬃcient Conﬁdence Score for Grading Whole Slide Images,” in
-*Proceedings of Machine Learning Research*, Jul. 2023, vol. 58, pp.
-1–19.
-4. D. Zyss, S. A. Ribeiro, M. J. C. Ludlam, T. Walter, and A. Fehri, “Cell
-Segmentation in Images Without Structural Fluorescent Labels,” *Biol.
-Imaging*, pp. 1–18, Jul. 2023, doi:
-[10.1017/S2633903X23000168](https://doi.org/10.1017/S2633903X23000168).
 1. M. Lubrano, Y. Bellahsen-Harrar, R. Fick, C. Badoual, and T. Walter,
 “Simple and efficient confidence score for grading whole slide images.”
 arXiv, Mar. 08, 2023. doi:
