@@ -4,9 +4,9 @@ permalink: /publications/
 ---
 
 1. M. Lubrano, Y. Bellahsen-Harrar, R. Fick, C. Badoual, and T. Walter,
-“Simple and Eﬃcient Conﬁdence Score for Grading Whole Slide Images,” in
+“Simple and Eﬃcient Conﬁdence Score for Grading Whole Slide Images” in
 *Proceedings of Machine Learning Research*, Jul. 2023, vol. 58, pp.
-1–19.
+1–19.[link](https://openreview.net/pdf?id=DA1hOTvcMWa)
 1. D. Zyss, S. A. Ribeiro, M. J. C. Ludlam, T. Walter, and A. Fehri, “Cell
 Segmentation in Images Without Structural Fluorescent Labels,” *Biol.
 Imaging*, pp. 1–18, Jul. 2023, doi:
@@ -18,7 +18,7 @@ Pathology, preprint, Jul. 2023. doi:
 1. T. Lazard, M. Lerousseau, E. Decencière, and T. Walter, “Giga-SSL: <span
 class="nocase">Self-supervised</span> learning for gigapixel images,” in
 *Proceedings of the IEEE/CVF conference on computer vision and pattern
-recognition (CVPR) workshops*, Jun. 2023, pp. 4304–4313.
+recognition (CVPR) workshops*, Jun. 2023, pp. 4304–4313. [link](https://openaccess.thecvf.com/content/CVPR2023W/CVMI/papers/Lazard_Giga-SSL_Self-Supervised_Learning_for_Gigapixel_Images_CVPRW_2023_paper.pdf)
 1. M. Lubrano, Y. Bellahsen-Harrar, R. Fick, C. Badoual, and T. Walter,
 “Simple and efficient confidence score for grading whole slide images.”
 arXiv, Mar. 08, 2023. doi:
