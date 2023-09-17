@@ -3,6 +3,16 @@ title: Publications
 permalink: /publications/
 ---
 
+1. D. B. Page *et al.*, “Spatial analyses of immune cell infiltration in
+cancer: Current methods and future directions: A report of the
+International Immuno‐Oncology Biomarker Working Group on Breast Cancer,”
+*The Journal of Pathology*, vol. 260, no. 5, pp. 514–532, Aug. 2023,
+doi: [10.1002/path.6165](https://doi.org/10.1002/path.6165).
+1. J. Thagaard *et al.*, “Pitfalls in machine learning‐based assessment of
+tumor‐infiltrating lymphocytes in breast cancer: A report of the
+International Immuno‐Oncology Biomarker Working Group on Breast Cancer,”
+*The Journal of Pathology*, vol. 260, no. 5, pp. 498–513, Aug. 2023,
+doi: [10.1002/path.6155](https://doi.org/10.1002/path.6155).
 1. M. Lubrano, Y. Bellahsen-Harrar, R. Fick, C. Badoual, and T. Walter,
 “Simple and Eﬃcient Conﬁdence Score for Grading Whole Slide Images” in
 *Proceedings of Machine Learning Research*, Jul. 2023, vol. 58, pp.
