@@ -3,10 +3,10 @@ title: Publications
 permalink: /publications/
 ---
 
-1. M. Lubrano, Y. Bellahsen-Harrar, S. Berlemont, T. Walter, and C.
-Badoual, “Diagnosis with Confidence: Deep Learning for Reliable
-Classification of Squamous Lesions of the Upper Aerodigestive Tract.”, 
-*Histopathology* (in press)
+1. M. Lubrano *et al.*, “Diagnosis with confidence: Deep learning for
+reliable classification of laryngeal dysplasia,” *Histopathology*, p.
+his.15067, Oct. 2023, doi:
+[10.1111/his.15067](https://doi.org/10.1111/his.15067).
 1. D. B. Page *et al.*, “Spatial analyses of immune cell infiltration in
 cancer: Current methods and future directions: A report of the
 International Immuno‐Oncology Biomarker Working Group on Breast Cancer,”
