@@ -33,6 +33,10 @@ Pathology, preprint, Jul. 2023. doi:
 class="nocase">Self-supervised</span> learning for gigapixel images,” in
 *Proceedings of the IEEE/CVF conference on computer vision and pattern
 recognition (CVPR) workshops*, Jun. 2023, pp. 4304–4313. [link](https://openaccess.thecvf.com/content/CVPR2023W/CVMI/papers/Lazard_Giga-SSL_Self-Supervised_Learning_for_Gigapixel_Images_CVPRW_2023_paper.pdf)
+1. S. Curras-Alonso *et al.*, “An interactive murine single-cell atlas of
+the lung responses to radiation injury,” *Nat Commun*, vol. 14, no. 1,
+p. 2445, Apr. 2023, doi:
+[10.1038/s41467-023-38134-z](https://doi.org/10.1038/s41467-023-38134-z).
 1. M. Lubrano, Y. Bellahsen-Harrar, R. Fick, C. Badoual, and T. Walter,
 “Simple and efficient confidence score for grading whole slide images.”
 arXiv, Mar. 08, 2023. doi:
