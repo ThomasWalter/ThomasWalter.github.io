@@ -3,6 +3,21 @@ title: Publications
 permalink: /publications/
 ---
 
+1. T. Lazard, M. Lerousseau, S. Gardrat, A. Vincent-Salomon, M.-H. Stern,
+M. Rodrigues, E. Decencière, and T. Walter, “Democratizing computational
+pathology: Optimized Whole Slide Image representations for The Cancer
+Genome Atlas,” BioRXiv, Preprint, Dec. 2023. doi:
+[10.1101/2023.12.04.569894](https://doi.org/10.1101/2023.12.04.569894).
+1. T. Defard, H. Laporte, M. Ayan, S. Juliette, S. Curras-Alonso, C. Weber,
+F. Massip, J.-A. Londoño-Vallejo, C. Fouillade, F. Mueller, and T.
+Walter, “A point cloud segmentation framework for image-based spatial
+transcriptomics,” BioRXiv, Preprint, Dec. 2023. doi:
+[10.1101/2023.12.01.569528](https://doi.org/10.1101/2023.12.01.569528).
+1. Lazard, Tristan, Bataillon, Guillaume, Walter, Thomas, and Vincent
+Salomon, Anne, “Cancer du sein - utilisation de l’intelligence
+artificielle pour prédire le statut tumoral relatif à la recombinaison
+homologue,” *Med Sci (Paris)*, vol. 39, no. 12, pp. 926–928, 2023, doi:
+[10.1051/medsci/2023169](https://doi.org/10.1051/medsci/2023169).
 1. M. Lubrano *et al.*, “Diagnosis with confidence: Deep learning for
 reliable classification of laryngeal dysplasia,” *Histopathology*, p.
 his.15067, Oct. 2023, doi:
