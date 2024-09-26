@@ -3,6 +3,33 @@ title: Publications
 permalink: /publications/
 ---
 
+1. G. Gessain, A.-A. Anzali, M. Lerousseau, K. Mulder, M. Bied, A. Auperin,
+D. Stockholm, N. Signolle, F. Sassi, M. E. Marques Da Costa, A.
+Marchais, A. Sayadi, D. Weidner, S. Uderhardt, Q. Blampey, S. R.
+Nakkireddy, S. Broutin, C.-A. Dutertre, P. Busson, T. Walter, A. Marhic,
+A. Moya-Plana, J. Guerlain, I. Breuskin, O. Casiraghi, P. Gorphe, M.
+Classe, J.-Y. Scoazec, C. Bleriot, and F. Ginhoux, “Trem2-expressing
+multinucleated giant macrophages are a biomarker of good prognosis in
+head and neck squamous cell carcinoma,” *Cancer Discovery*, Sep. 2024,
+doi:
+[10.1158/2159-8290.CD-24-0018](https://doi.org/10.1158/2159-8290.CD-24-0018).
+1. T. Defard, H. Laporte, M. Ayan, J. Soulier, S. Curras-Alonso, C. Weber,
+F. Massip, J.-A. Londoño-Vallejo, C. Fouillade, F. Mueller, and T.
+Walter, “A point cloud segmentation framework for image-based spatial
+transcriptomics,” *Communications Biology*, vol. 7, no. 1, p. 823, Jul.
+2024, doi:
+[10.1038/s42003-024-06480-3](https://doi.org/10.1038/s42003-024-06480-3).
+1. A. Beaufrère, T. Lazard, R. Nicolle, G. Lubuela, J. Augustin, M.
+Albuquerque, B. Pichon, C. Pignolet, V. Priori, N. Théou-Anton, M.
+Lesurtel, M. Bouattour, K. Mondet, J. Cros, J. Calderaro, T. Walter, and
+V. Paradis, “Self-supervised learning to predict intrahepatic
+cholangiocarcinoma transcriptomic classes on routine histology,” BioRXiv, Jan.
+2024, doi:
+[10.1101/2024.01.15.575652](https://doi.org/10.1101/2024.01.15.575652).
+1. D. Zyss, A. Sharma, S. A. Ribeiro, C. E. Repellin, O. Lai, T. Walter,
+and A. Fehri, “Contrastive learning for cell division detection and
+tracking in live cell imaging data.” BioRXiv, Aug. 2024, doi:
+[10.1101/2024.08.16.608296](https://doi.org/10.1101/2024.08.16.608296).
 1. T. Lazard, M. Lerousseau, S. Gardrat, A. Vincent-Salomon, M.-H. Stern,
 M. Rodrigues, E. Decencière, and T. Walter, “Democratizing computational
 pathology: Optimized Whole Slide Image representations for The Cancer
