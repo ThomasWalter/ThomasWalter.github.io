@@ -19,6 +19,13 @@ Walter, “A point cloud segmentation framework for image-based spatial
 transcriptomics,” *Communications Biology*, vol. 7, no. 1, p. 823, Jul.
 2024, doi:
 [10.1038/s42003-024-06480-3](https://doi.org/10.1038/s42003-024-06480-3).
+1. N. Captier, M. Lerousseau, F. Orlhac, N. Hovhannisyan-Baghdasarian, M.
+Luporsi, E. Woff, S. Lagha, P. Salamoun Feghali, C. Lonjou, C.
+Beaulaton, H. Salmon, T. Walter, I. Buvat, N. Girard, and E. Barillot,
+“Integration of clinical, pathological, radiological, and transcriptomic
+data improves the prediction of first-line immunotherapy outcome in
+metastatic non-small cell lung cancer.” Jun. 2024, doi:
+[10.1101/2024.06.27.24309583](https://doi.org/10.1101/2024.06.27.24309583).
 1. C. A. Jahangir et al., 
 “Image-based multiplex immune profiling of cancer tissues: Translational
 implications. A report of the International Immuno-oncology Biomarker
