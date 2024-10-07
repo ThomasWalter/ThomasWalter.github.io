@@ -377,3 +377,4 @@ Computer Assisted Fundus Image Analysis (CAFIA), May 2000.
 54. T. Walter, “Gewinnung von Merkmalen transitorisch evozierter
 otoakustischer Emissionen,” Diploma Thesis, Saarland university,
 Saarbrücken, Germany, 1999.
+{: reversed="reversed"}
