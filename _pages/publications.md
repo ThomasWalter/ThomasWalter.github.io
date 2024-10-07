@@ -45,6 +45,9 @@ V. Paradis, “Self-supervised learning to predict intrahepatic
 cholangiocarcinoma transcriptomic classes on routine histology,” BioRXiv, Jan.
 2024, doi:
 [10.1101/2024.01.15.575652](https://doi.org/10.1101/2024.01.15.575652).
+
+## 2023
+
 1. T. Lazard, M. Lerousseau, S. Gardrat, A. Vincent-Salomon, M.-H. Stern,
 M. Rodrigues, E. Decencière, and T. Walter, “Democratizing computational
 pathology: Optimized Whole Slide Image representations for The Cancer
@@ -377,4 +380,4 @@ Computer Assisted Fundus Image Analysis (CAFIA), May 2000.
 54. T. Walter, “Gewinnung von Merkmalen transitorisch evozierter
 otoakustischer Emissionen,” Diploma Thesis, Saarland university,
 Saarbrücken, Germany, 1999.
-{: reversed="reversed"}
+
