@@ -32,6 +32,12 @@ implications. A report of the International Immuno-oncology Biomarker
 Working Group on Breast Cancer,” *The Journal of Pathology*, vol. 262,
 no. 3, pp. 271–288, Mar. 2024, doi:
 [10.1002/path.6238](https://doi.org/10.1002/path.6238).
+1. X. Devos, J.-B. Fiche, M. Bardou, O. Messina, C. Houbron, J. Gurgo, M.
+Schaeffer, M. Götz, T. Walter, F. Mueller, and M. Nollmann, “<span
+class="nocase">pyHiM</span>: A new open-source, multi-platform software
+package for spatial genomics based on multiplexed DNA-FISH imaging,”
+*Genome Biology*, vol. 25, no. 1, p. 47, Feb. 2024, doi:
+[10.1186/s13059-024-03178-x](https://doi.org/10.1186/s13059-024-03178-x).
 1. A. Beaufrère, T. Lazard, R. Nicolle, G. Lubuela, J. Augustin, M.
 Albuquerque, B. Pichon, C. Pignolet, V. Priori, N. Théou-Anton, M.
 Lesurtel, M. Bouattour, K. Mondet, J. Cros, J. Calderaro, T. Walter, and
