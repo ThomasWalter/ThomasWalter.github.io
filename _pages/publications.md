@@ -48,7 +48,7 @@ cholangiocarcinoma transcriptomic classes on routine histology,” BioRXiv, Jan.
 
 ## 2023
 
-1. T. Lazard, M. Lerousseau, S. Gardrat, A. Vincent-Salomon, M.-H. Stern,
+8. T. Lazard, M. Lerousseau, S. Gardrat, A. Vincent-Salomon, M.-H. Stern,
 M. Rodrigues, E. Decencière, and T. Walter, “Democratizing computational
 pathology: Optimized Whole Slide Image representations for The Cancer
 Genome Atlas,” BioRXiv, Preprint, Dec. 2023. doi:
