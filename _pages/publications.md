@@ -4,6 +4,8 @@ permalink: /publications/
 ---
 
 
+## 2024
+
 1. G. Gessain et al., “Trem2-expressing
 multinucleated giant macrophages are a biomarker of good prognosis in
 head and neck squamous cell carcinoma,” *Cancer Discovery*, Sep. 2024,
@@ -120,6 +122,9 @@ Accessed: Mar. 11, 2023. doi: [10.48550/arXiv.2302.10923](http://arxiv.org/abs/2
 1. T. Bonte, M. Philbert, E. Coleno, E. Bertrand, A. Imbert, and T. Walter,
 “Learning with minimal effort: Leveraging in silico labeling for cell
 and nucleus segmentation.” arXiv, Jan. 10, 2023. doi: [10.48550/arXiv.2301.03914](http://arxiv.org/abs/2301.03914)
+
+## 2022
+
 1. T. Lazard, M. Lerousseau, E. Decencière, and T. Walter, “Giga-SSL:
 Self-Supervised Learning for Gigapixel Images.” arXiv, Dec. 2022, doi: [10.48550/arXiv.2212.03273](http://arxiv.org/abs/2212.03273).
 1. M. Lubrano, Y. Bellahsen-Harrar, S. Berlemont, T. Walter, and C.
@@ -147,6 +152,9 @@ Processing*, vol. 2, p. 851809, Jun. 2022, doi:
 by combining full and self-supervision,” *bioRxiv*, p.
 2022.01.14.476330, Jan. 2022, doi:
 [10.1101/2022.01.14.476330](https://doi.org/10.1101/2022.01.14.476330).
+
+## 2021
+
 1. T. Lazard *et al.*, “Deep learning identifies new morphological patterns
 of homologous recombination deficiency in luminal breast cancers from
 whole slide images,” *bioRxiv*, 2021, doi:
@@ -163,6 +171,10 @@ no. 1, p. 1352, Mar. 2021, doi:
 and C. Fouillade, “Spatial transcriptomics for respiratory research and
 medicine,” *Eur Respir J*, p. 2004314, Jan. 2021, doi:
 [10.1183/13993003.04314-2020](https://doi.org/10.1183/13993003.04314-2020).
+
+
+## 2020
+
 1. X. Pichon *et al.*, “The kinesin KIF1C transports APC-dependent mRNAs to
 cell protrusions,” *RNA*, 2020, doi:[10.1261/rna.078576.120](https://doi.org/10.1261/rna.078576.120).
 1. M. Balluet *et al.*, “Neural network fast-classifies biological images
@@ -181,6 +193,9 @@ Ground Truth for Detecting Cell Types in an Image-Based Immunotherapy
 Screen,” in *2020 IEEE 17th International Symposium on Biomedical
 Imaging (ISBI)*, Apr. 2020, pp. 886–890, doi:
 [10.1109/ISBI45749.2020.9098696](https://doi.org/10.1109/ISBI45749.2020.9098696).
+
+## 2019
+
 4. J. C. Boyd, A. Pinheiro, E. D. Nery, F. Reyal, and T. Walter,
 “Domain-invariant features for mechanism of action prediction in a
 multi-cell-line drug screen,” *Bioinformatics*, Oct. 2019, doi:
@@ -202,6 +217,9 @@ Residual Cancer Burden In A Triple Negative Breast Cancer Cohort,” in
 *2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI
 2019)*, 2019, pp. 933–937, doi:
 [10.1109/ISBI.2019.8759205](https://doi.org/10.1109/ISBI.2019.8759205).
+
+## 2018
+
 9. P. Naylor, M. La, F. Reyal, and T. Walter, “Segmentation of Nuclei in
 Histopathology Images by deep regression of the distance map,” *IEEE
 Transactions on Medical Imaging*, vol. 38, no. 2, pp. 448–459, 2019,
@@ -214,6 +232,9 @@ by causal inference,” in *International Symposium on Biomedical Imaging
 12. A. Samacoits *et al.*, “A computational framework to study sub-cellular
 RNA localization,” *Nature Communications*, vol. 9, no. 1, p. 4584,
 2018, doi: [10.1038/s41467-018-06868-w](https://doi.org/10.1038/s41467-018-06868-w).
+
+## 2017
+
 13. E. Bernard, Y. Jiao, E. Scornet, V. Stoven, T. Walter, and J.-P. Vert,
 “Kernel multitask regression for toxicogenetics,” *Molecular
 Informatics*, vol. 36, Jan. 2017, \[Online\]. Available: <http://biorxiv.org/content/early/2017/08/01/171298.abstract>.
@@ -222,6 +243,9 @@ Histopathology Images Using Deep Neural Networks,” *2017 IEEE 14th
 International Symposium on Biomedical Imaging (ISBI 2017)*, pp. IEEE;
 EMB; IEEE Signal Proc Soc, 2017, doi:
 [10.1109/ISBI.2017.7950669](https://doi.org/10.1109/ISBI.2017.7950669).
+
+## 2016
+
 15. M. Isokane *et al.*, “ARHGEF17 is an essential spindle assembly
 checkpoint factor that targets Mps1 to kinetochores,” *The Journal of
 Cell Biology*, vol. 212, no. 6, pp. 647–659, Mar. 2016, doi:
@@ -234,6 +258,9 @@ Macro*, 2016, pp. (accepted for publication).
 detection approach with super-resolution capability,” *Nucleic Acids
 Research*, vol. 44, no. 22, 2016, doi:
 [10.1093/nar/gkw784](https://doi.org/10.1093/nar/gkw784).
+
+## 2015
+
 18. F. Eduati *et al.*, “Prediction of human population responses to toxic
 compounds by a collaborative competition,” *Nature Biotechnology*, vol.
 33, p. 933, Aug. 2015, \[Online\]. Available: <https://doi.org/10.1038/nbt.3299>.
@@ -253,6 +280,9 @@ J.-P. Vert, and T. Walter, “Infering an ontology of single cell motions
 from high-throughput microscopy data,” in *Proceedings of the 12th IEEE
 International Symposium on Biomedical Imaging (ISBI): From nano to
 macro*, 2015, pp. 160–163.
+
+## 2014
+
 24. J. Tegha-Dunghu *et al.*, “MAP1S controls microtubule stability
 throughout the cell cycle in human cells,” *Journal of Cell Science*,
 vol. 127, no. 23, pp. 5007 LP–5013, Dec. 2014, doi:
@@ -277,19 +307,31 @@ Image Processing (ICIP)*, 2014, pp. 4343–4347.
 29. M. Veta *et al.*, “Assessment of algorithms for mitosis detection in
 breast cancer histopathology images,” *Medical Image Analysis*, pp.
 1–23, 2014.
+
+## 2013
+
 30. G. Pau, T. Walter, B. Neumann, J. Hériché, J. Ellenberg, and W. Huber,
 “Dynamical modelling of phenotypes in a genome-wide RNAi live-cell
 imaging assay,” *BMC bioinformatics*, vol. 14, no. 308, pp. 1–10, 2013,
 doi:
 [10.1186/1471-2105-14-308](https://doi.org/10.1186/1471-2105-14-308).
+
+## 2012
+
 31. M. Mall *et al.*, “Mitotic lamin disassembly is triggered by
 lipid-mediated signaling.” *The Journal of cell biology*, vol. 198, no.
 6, pp. 981–90, Sep. 2012, doi:
 [10.1083/jcb.201205103](https://doi.org/10.1083/jcb.201205103).
+
+## 2011
+
 32. C. Conrad *et al.*, “Micropilot: Automation of fluorescence
 microscopy-based imaging for systems biology.” *Nature methods*, vol. 8,
 no. 3, pp. 246–9, Mar. 2011, doi:
 [10.1038/nmeth.1558](https://doi.org/10.1038/nmeth.1558).
+
+## 2010
+
 33. M. Held *et al.*, “CellCognition: Time-resolved phenotype annotation in
 high-throughput live cell imaging.” *Nature methods*, vol. 7, no. 9, pp.
 747–54, Sep. 2010, doi:
@@ -320,6 +362,9 @@ Harbor, 2010.
 39. T. Walter *et al.*, “Visualization of image data from cells to
 organisms,” *Nature Methods*, vol. 7, no. 3, pp. S26–S41, 2010, doi:
 [10.1038/NmEtH.1431](https://doi.org/10.1038/NmEtH.1431).
+
+## Before 2010
+
 40. J. Tegha-Dunghu *et al.*, “EML3 is a nuclear microtubule-binding protein
 required for the correct alignment of chromosomes in metaphase,”
 *Journal of Cell Science*, vol. 121, no. 10, pp. 1718 LP–1726, May 2008,
