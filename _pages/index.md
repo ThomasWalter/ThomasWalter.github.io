@@ -25,7 +25,7 @@ My current positions:
 
 ## Centre for Computational Biology (CBIO)
 
-The [CBIO](https://cbio.ensmp.fr) is a research centre of [Mines ParisTech](https://www.minesparis.psl.eu), a major engineering school for applied mathematics in France. Our research focuses on the development of **Machine Learning methods** for live sciences, with applications both in fundamental biology and medicine. At the CBIO, we have 4 permanent researchers covering a variety of application areas, such as Chemoinformatics, Genome-Wide Association Studies, the analysis of electronic health records, phenotypic screening or digital pathology. 
+The [CBIO](https://cbio.ensmp.fr) is a research centre of [Mines ParisTech](https://www.minesparis.psl.eu), a major engineering school for applied mathematics in France. Our research focuses on the development of **Machine Learning methods** for live sciences, with applications both in fundamental biology and medicine. At the CBIO, we are 5 permanent researchers covering a variety of application areas, such as Chemoinformatics, Genome-Wide Association Studies, the analysis of electronic health records, phenotypic screening or digital pathology. 
 
 ![Mines ParisTech - PSL](/images/Mines_paristech.png)
 
