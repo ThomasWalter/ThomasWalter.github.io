@@ -6,6 +6,12 @@ permalink: /publications/
 
 ## 2024
 
+1. L. Chadoutaud, M. Lerousseau, D. Herrero-Saboya, J. Ostermaier, J.
+Fontugne, E. Barillot, and T. Walter, “<span
+class="nocase">sCellST</span>: A Multiple Instance Learning approach to
+predict single-cell gene expression from H&E images using spatial
+transcriptomics.” Nov. 2024, doi:
+[10.1101/2024.11.07.622225](https://doi.org/10.1101/2024.11.07.622225).
 1. G. Gessain et al., “Trem2-expressing
 multinucleated giant macrophages are a biomarker of good prognosis in
 head and neck squamous cell carcinoma,” *Cancer Discovery*, Sep. 2024,
