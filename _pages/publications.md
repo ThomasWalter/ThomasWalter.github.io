@@ -5,7 +5,7 @@ permalink: /publications/
 
 ## 2025
 
-N. Captier, M. Lerousseau, F. Orlhac, N. Hovhannisyan-Baghdasarian, M.
+1. N. Captier, M. Lerousseau, F. Orlhac, N. Hovhannisyan-Baghdasarian, M.
 Luporsi, E. Woff, S. Lagha, P. Salamoun Feghali, C. Lonjou, C.
 Beaulaton, A. Zinovyev, H. Salmon, T. Walter, I. Buvat, N. Girard, and
 E. Barillot, “Integration of clinical, pathological, radiological, and
