@@ -3,6 +3,16 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2025
+
+N. Captier, M. Lerousseau, F. Orlhac, N. Hovhannisyan-Baghdasarian, M.
+Luporsi, E. Woff, S. Lagha, P. Salamoun Feghali, C. Lonjou, C.
+Beaulaton, A. Zinovyev, H. Salmon, T. Walter, I. Buvat, N. Girard, and
+E. Barillot, “Integration of clinical, pathological, radiological, and
+transcriptomic data improves prediction for first-line immunotherapy
+outcome in metastatic non-small cell lung cancer,” *Nature
+Communications*, vol. 16, no. 1, p. 614, Jan. 2025, doi:
+[10.1038/s41467-025-55847-5](https://doi.org/10.1038/s41467-025-55847-5).
 
 ## 2024
 
