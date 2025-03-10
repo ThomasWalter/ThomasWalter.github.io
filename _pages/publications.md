@@ -22,6 +22,10 @@ class="nocase">sCellST</span>: A Multiple Instance Learning approach to
 predict single-cell gene expression from H&E images using spatial
 transcriptomics.” Nov. 2024, doi:
 [10.1101/2024.11.07.622225](https://doi.org/10.1101/2024.11.07.622225).
+1. S. Gutwein, D. Lazic, T. Walter, S. Taschner-Mandl, and R. Licandro,
+“Interpretable Embeddings for Segmentation-Free Single-Cell Analysis in
+Multiplex Imaging.” arXiv, Nov. 2024, doi:
+[10.48550/arXiv.2411.03341](https://doi.org/10.48550/arXiv.2411.03341).
 1. A. Safieddine, M.-N. Benassy, T. Bonte, F. Slimani, O. Pourcelot, M.
 Kress, M. Ernoult-Lange, M. Courel, E. Coleno, A. Imbert, A. Laine, A.
 M. Godebert, A. Vinit, C. Blugeon, G. Chevreux, D. Gautheret, T. Walter,
@@ -30,6 +34,12 @@ class="nocase">mRNA</span> localization in <span
 class="nocase">P-bodies</span>,” *Molecular Cell*, vol. 84, no. 21, pp.
 4191–4208.e7, Nov. 2024, doi:
 [10.1016/j.molcel.2024.09.011](https://doi.org/10.1016/j.molcel.2024.09.011).
+1. C. Weber, T. Defard, M. Lelek, H. Laporte, A. Mallick, J.-A.
+Londoño-Vallejo, T. Walter, C. Fouillade, M. I. Gariboldi, and F.
+Mueller, “<span class="nocase">autoFISH</span> - a modular toolbox for
+sequential <span class="nocase">smFISH</span> experiments.” Nov. 2024,
+doi:
+[10.1101/2024.11.14.623566](https://doi.org/10.1101/2024.11.14.623566).
 1. G. Gessain et al., “Trem2-expressing
 multinucleated giant macrophages are a biomarker of good prognosis in
 head and neck squamous cell carcinoma,” *Cancer Discovery*, Sep. 2024,
