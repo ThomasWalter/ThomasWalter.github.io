@@ -5,6 +5,10 @@ permalink: /publications/
 
 ## 2025
 
+1. T. Defard, A. Blondel, A. Coleon, G. Dias de Melo, T. Walter, and F.
+Mueller, “RNA2seg: A generalist model for cell segmentation in
+image-based spatial transcriptomics,” *bioRxiv*, 2025, doi:
+[10.1101/2025.03.03.641259](https://doi.org/10.1101/2025.03.03.641259).
 1. N. Captier, M. Lerousseau, F. Orlhac, N. Hovhannisyan-Baghdasarian, M.
 Luporsi, E. Woff, S. Lagha, P. Salamoun Feghali, C. Lonjou, C.
 Beaulaton, A. Zinovyev, H. Salmon, T. Walter, I. Buvat, N. Girard, and
