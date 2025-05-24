@@ -11,7 +11,8 @@ Cavalli, “Cell-type deconvolution methods for spatial transcriptomics,”
 [10.1038/s41576-025-00845-y](https://doi.org/10.1038/s41576-025-00845-y).
 1. T. Bonte, O. Pourcelot, A. Safieddine, F. Slimani, F. Mueller, D. Weil,
 E. Bertrand, and T. Walter, “A Deep Learning approach for
-time-consistent cell cycle phase prediction from microscopy data.”
+time-consistent cell cycle phase prediction from microscopy data.” 
+*bioRxiv*, 2025, doi:[10.1101/2025.05.16.654306](https://doi.org/10.1101/2025.05.16.654306).
 1. G. Balezo, R. Trullo, A. P. Planas, E. Decenciere, and T. Walter,
 “MIPHEI-ViT: Multiplex Immunofluorescence Prediction from H&E Images
 using ViT Foundation Models.” arXiv, May 2025, doi:
