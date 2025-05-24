@@ -5,6 +5,17 @@ permalink: /publications/
 
 ## 2025
 
+1. L. C. Gaspard-Boulinc, L. Gortana, T. Walter, E. Barillot, and F. M. G.
+Cavalli, “Cell-type deconvolution methods for spatial transcriptomics,”
+*Nature Reviews Genetics*, May 2025, doi:
+[10.1038/s41576-025-00845-y](https://doi.org/10.1038/s41576-025-00845-y).
+1. T. Bonte, O. Pourcelot, A. Safieddine, F. Slimani, F. Mueller, D. Weil,
+E. Bertrand, and T. Walter, “A Deep Learning approach for
+time-consistent cell cycle phase prediction from microscopy data.”
+1. G. Balezo, R. Trullo, A. P. Planas, E. Decenciere, and T. Walter,
+“MIPHEI-ViT: Multiplex Immunofluorescence Prediction from H&E Images
+using ViT Foundation Models.” arXiv, May 2025, doi:
+[10.48550/arXiv.2505.10294](https://doi.org/10.48550/arXiv.2505.10294).
 1. T. Defard, A. Blondel, A. Coleon, G. Dias de Melo, T. Walter, and F.
 Mueller, “RNA2seg: A generalist model for cell segmentation in
 image-based spatial transcriptomics,” *bioRxiv*, 2025, doi:
