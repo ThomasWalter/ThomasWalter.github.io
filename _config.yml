@@ -176,7 +176,7 @@ author:
   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Director of the Centre for Computational Biology. Full Professor at Ecole des Mines de Paris. Researcher in Bioimage Informatics, Mines Paris, Institut Curie."
   location         : "Paris, France"
-  email            : "Thomas.Walter@mines-paristech.fr"
+  email            : "Thomas.Walter@minesparis.psl.eu"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
@@ -208,7 +208,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:Thomas.Walter@mines-paristech.fr"
+      url: "mailto:Thomas.Walter@minesparis.psl.eu"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
