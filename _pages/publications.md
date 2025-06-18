@@ -5,6 +5,11 @@ permalink: /publications/
 
 ## 2025
 
+1. T. Bonte, L. Dubois, P. Gagna, R. Dibsy, A. Petrović, T. Advedissian, M.
+Serres, F. Cuvelier, M. Crouigneau, N. Sassoon, N. Gupta-Rossi, S.
+Frémont, A. Echard, and T. Walter, “Cut-Detector: A Tool for Automated
+Temporal Analysis of Late Cytokinetic Events,” *bioRxiv*, Jan. 2025, doi:
+[10.1101/2025.06.06.658046](https://doi.org/10.1101/2025.06.06.658046).
 1. L. C. Gaspard-Boulinc, L. Gortana, T. Walter, E. Barillot, and F. M. G.
 Cavalli, “Cell-type deconvolution methods for spatial transcriptomics,”
 *Nature Reviews Genetics*, May 2025, doi:
