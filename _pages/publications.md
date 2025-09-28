@@ -5,6 +5,23 @@ permalink: /publications/
 
 ## 2025
 
+
+
+1. G. Balezo, H. Feki, R. Bourgade, L. Monnier, M. Blons, A. Blondel, A. P. Planas,
+E. Decenciere and T. Walter, “Efficient Fine-Tuning of DINOv3 Pretrained on Natural
+Images for Atypical Mitotic Figure Classification in MIDOG 2025.” arXiv,
+Sep. 2025, doi:
+[10.48550/arXiv.2508.21041](https://doi.org/10.48550/arXiv.2508.21041).
+1. R. Bourgade, G. Balezo, H. Feki, L. Monier, A. Blondel, M. Blons, and T. Walter, 
+“Robust Pan-Cancer Mitotic Figure Detection with YOLOv12.” arXiv, Sep. 2025, doi:
+[10.48550/arXiv.2509.02593](https://doi.org/10.48550/arXiv.2509.02593).
+1. Y. Bellahsen-Harrar, M. Lubrano, C. Lépine, A. Beaufrère, C.
+Bocciarelli, A. Brunet, E. Decroix, F. N. El-Sissy, B. Fabiani, A.
+Morini, C. Tilmant, T. Walter, and C. Badoual, “Exploring the risks of
+over-reliance on AI in diagnostic pathology. What lessons can be learned
+to support the training of young pathologists?” *PLOS One*, vol. 20, no.
+8, p. e0323270, Aug. 2025, doi:
+[10.1371/journal.pone.0323270](https://doi.org/10.1371/journal.pone.0323270).
 1. T. Bonte, L. Dubois, P. Gagna, R. Dibsy, A. Petrović, T. Advedissian, M.
 Serres, F. Cuvelier, M. Crouigneau, N. Sassoon, N. Gupta-Rossi, S.
 Frémont, A. Echard, and T. Walter, “Cut-Detector: A Tool for Automated
