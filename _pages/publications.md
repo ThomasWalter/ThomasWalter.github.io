@@ -22,6 +22,17 @@ over-reliance on AI in diagnostic pathology. What lessons can be learned
 to support the training of young pathologists?” *PLOS One*, vol. 20, no.
 8, p. e0323270, Aug. 2025, doi:
 [10.1371/journal.pone.0323270](https://doi.org/10.1371/journal.pone.0323270).
+1. F.-C. Bidard, G. Gessain, T. Bachelot, L. Frechin, A. Vincent-Salomon,
+D. Drubay, J. Lemonnier, T. Walter, F. Penault-Llorca, A.-L. Martin, C.
+Gaudin, A. Bichat, F. Sassi, S. Berlemont, M. Chavez-MacGregor, H. S.
+Rugo, C. Badoual, B. Pistilli, J. Ribeiro, A. Di Meglio, M.
+Lacroix-Triki, I. Vaz Luis, M. Lerousseau, and F. André, “Identifying
+Patients With Low Relapse Rate Despite High-Risk Estrogen
+Receptor–Positive/Human Epidermal Growth Factor Receptor 2–Negative
+Early Breast Cancer: Development and Validation of a Clinicopathologic
+Assay,” *Journal of Clinical Oncology*, vol. 43, no. 28, pp. 3090–3101,
+Oct. 2025, doi:
+[10.1200/JCO-25-00742](https://doi.org/10.1200/JCO-25-00742).
 1. T. Bonte, L. Dubois, P. Gagna, R. Dibsy, A. Petrović, T. Advedissian, M.
 Serres, F. Cuvelier, M. Crouigneau, N. Sassoon, N. Gupta-Rossi, S.
 Frémont, A. Echard, and T. Walter, “Cut-Detector: A Tool for Automated
