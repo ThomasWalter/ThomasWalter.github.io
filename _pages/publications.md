@@ -3,10 +3,23 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2026
+
+1. A. Beaufrère, T. Lazard, R. Nicolle, G. Lubuela, J. Augustin, M.
+Albuquerque, B. Pichon, C. Pignolet, V. Priori, N. Théou-Anton, M.
+Lesurtel, M. Bouattour, K. Mondet, J. Cros, J. Calderaro, T. Walter, and
+V. Paradis, “Self-supervised learning to predict intrahepatic
+cholangiocarcinoma transcriptomic classes on routine histology,” *JHEP
+Reports*, vol. 8, no. 2, Feb. 2026, doi:
+[10.1016/j.jhepr.2025.101675](https://doi.org/10.1016/j.jhepr.2025.101675).
+
 ## 2025
 
-
-
+1. T. Bonte, O. Pourcelot, A. Safieddine, F. Slimani, F. Mueller, D. Weil,
+E. Bertrand, and T. Walter, “A deep learning approach for
+time-consistent cell cycle phase prediction from microscopy data,” *PLOS
+Computational Biology*, vol. 21, no. 12, p. e1013800, Dec. 2025, doi:
+[10.1371/journal.pcbi.1013800](https://doi.org/10.1371/journal.pcbi.1013800).
 1. G. Balezo, H. Feki, R. Bourgade, L. Monnier, M. Blons, A. Blondel, A. P. Planas,
 E. Decenciere and T. Walter, “Efficient Fine-Tuning of DINOv3 Pretrained on Natural
 Images for Atypical Mitotic Figure Classification in MIDOG 2025.” arXiv,
@@ -22,6 +35,9 @@ over-reliance on AI in diagnostic pathology. What lessons can be learned
 to support the training of young pathologists?” *PLOS One*, vol. 20, no.
 8, p. e0323270, Aug. 2025, doi:
 [10.1371/journal.pone.0323270](https://doi.org/10.1371/journal.pone.0323270).
+1. S. Gutwein, D. Lazic, T. Walter, S. Taschner-Mandl, and R. Licandro,
+“NeXtMarker: Contrastive Learning for Marker-Level Interpretability in
+Single-Cell Multiplex Imaging,” 2025.
 1. F.-C. Bidard, G. Gessain, T. Bachelot, L. Frechin, A. Vincent-Salomon,
 D. Drubay, J. Lemonnier, T. Walter, F. Penault-Llorca, A.-L. Martin, C.
 Gaudin, A. Bichat, F. Sassi, S. Berlemont, M. Chavez-MacGregor, H. S.
