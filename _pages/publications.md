@@ -12,6 +12,10 @@ V. Paradis, “Self-supervised learning to predict intrahepatic
 cholangiocarcinoma transcriptomic classes on routine histology,” *JHEP
 Reports*, vol. 8, no. 2, Feb. 2026, doi:
 [10.1016/j.jhepr.2025.101675](https://doi.org/10.1016/j.jhepr.2025.101675).
+1. L. Gortana, L. Chadoutaud, R. Bourgade, E. Barillot, and T. Walter,
+“HEDeST: An Integrative Approach to Enhance Spatial Transcriptomic
+Deconvolution with Histology.” BioRXiv, Jul. 2026, doi:
+[10.64898/2026.01.06.697922](https://doi.org/10.64898/2026.01.06.697922).
 
 ## 2025
 
