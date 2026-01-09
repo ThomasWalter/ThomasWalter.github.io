@@ -24,6 +24,10 @@ E. Bertrand, and T. Walter, “A deep learning approach for
 time-consistent cell cycle phase prediction from microscopy data,” *PLOS
 Computational Biology*, vol. 21, no. 12, p. e1013800, Dec. 2025, doi:
 [10.1371/journal.pcbi.1013800](https://doi.org/10.1371/journal.pcbi.1013800).
+1. A. Blondel, “Deep Learning Bridges Histology and Transcriptomics to
+Predict Molecular Subtypes and Outcomes in Muscle-Invasive Bladder
+Cancer.” BioRXiv, Oct. 2025, doi:
+[10.1101/2025.10.23.684013](https://doi.org/10.1101/2025.10.23.684013).
 1. G. Balezo, H. Feki, R. Bourgade, L. Monnier, M. Blons, A. Blondel, A. P. Planas,
 E. Decenciere and T. Walter, “Efficient Fine-Tuning of DINOv3 Pretrained on Natural
 Images for Atypical Mitotic Figure Classification in MIDOG 2025.” arXiv,
