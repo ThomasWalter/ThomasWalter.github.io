@@ -5,6 +5,19 @@ permalink: /publications/
 
 ## 2026
 
+1. A. Beaufrère, T. Lazard, R. Nicolle, G. Lubuela, J. Augustin, M.
+Albuquerque, B. Pichon, C. Pignolet, V. Priori, N. Théou-Anton, M.
+Lesurtel, M. Bouattour, K. Mondet, J. Cros, J. Calderaro, T. Walter, and
+V. Paradis, “Self-supervised learning to predict intrahepatic
+cholangiocarcinoma transcriptomic classes on routine histology,” *JHEP
+Reports*, vol. 8, no. 2, Feb. 2025, doi:
+[10.1016/j.jhepr.2025.101675](https://doi.org/10.1016/j.jhepr.2025.101675).
+1. L. Chadoutaud, M. Lerousseau, D. Herrero-Saboya, J. Ostermaier, J.
+Fontugne, E. Barillot, and T. Walter,
+“<span class="nocase">sCellST</span> predicts single-cell gene
+expression from H& E images,” *Nature Communications*, vol. 17, no. 1,
+p. 1194, Jan. 2026, doi:
+[10.1038/s41467-025-67965-1](https://doi.org/10.1038/s41467-025-67965-1).
 1. L. Gortana, L. Chadoutaud, R. Bourgade, E. Barillot, and T. Walter,
 “HEDeST: An Integrative Approach to Enhance Spatial Transcriptomic
 Deconvolution with Histology.” BioRXiv, Jan. 2026, doi:
@@ -17,13 +30,6 @@ E. Bertrand, and T. Walter, “A deep learning approach for
 time-consistent cell cycle phase prediction from microscopy data,” *PLOS
 Computational Biology*, vol. 21, no. 12, p. e1013800, Dec. 2025, doi:
 [10.1371/journal.pcbi.1013800](https://doi.org/10.1371/journal.pcbi.1013800).
-1. A. Beaufrère, T. Lazard, R. Nicolle, G. Lubuela, J. Augustin, M.
-Albuquerque, B. Pichon, C. Pignolet, V. Priori, N. Théou-Anton, M.
-Lesurtel, M. Bouattour, K. Mondet, J. Cros, J. Calderaro, T. Walter, and
-V. Paradis, “Self-supervised learning to predict intrahepatic
-cholangiocarcinoma transcriptomic classes on routine histology,” *JHEP
-Reports*, vol. 8, no. 2, Nov. 2025, doi:
-[10.1016/j.jhepr.2025.101675](https://doi.org/10.1016/j.jhepr.2025.101675).
 1. A. Blondel, “Deep Learning Bridges Histology and Transcriptomics to
 Predict Molecular Subtypes and Outcomes in Muscle-Invasive Bladder
 Cancer.” BioRXiv, Oct. 2025, doi:
