@@ -5,6 +5,11 @@ permalink: /publications/
 
 ## 2026
 
+1. T. Defard, A. Blondel, S. Bellow, A. Coleon, G. Dias de Melo, F.
+Mueller, and T. Walter, “RNA2seg: A generalist model for cell
+segmentation in image-based spatial transcriptomics,” *Genome Biology*,
+Jan. 2026, doi:
+[10.1186/s13059-025-03908-9](https://doi.org/10.1186/s13059-025-03908-9).
 1. A. Beaufrère, T. Lazard, R. Nicolle, G. Lubuela, J. Augustin, M.
 Albuquerque, B. Pichon, C. Pignolet, V. Priori, N. Théou-Anton, M.
 Lesurtel, M. Bouattour, K. Mondet, J. Cros, J. Calderaro, T. Walter, and
