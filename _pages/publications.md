@@ -5,6 +5,10 @@ permalink: /publications/
 
 ## 2026
 
+1. L. Chadoutaud, A. Blondel, H. Feki, J. Fontugne, E. Barillot, and T.
+Walter, “LEMON: A foundation model for nuclear morphology in
+Computational Pathology.” arXiv, 2026, doi:
+[10.48550/ARXIV.2603.25802](https://doi.org/10.48550/ARXIV.2603.25802).
 1. G. Balezo, R. Trullo, A. Pla Planas, E. Decencière, and T. Walter,
 “MIPHEI-ViT: Multiplex immunofluorescence prediction from H&E images
 using ViT foundation models,” *Computers in Biology and Medicine*, vol.
