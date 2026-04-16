@@ -5,6 +5,11 @@ permalink: /publications/
 
 ## 2026
 
+1. G. Balezo, R. Trullo, A. Pla Planas, E. Decencière, and T. Walter,
+“MIPHEI-ViT: Multiplex immunofluorescence prediction from H&E images
+using ViT foundation models,” *Computers in Biology and Medicine*, vol.
+206, p. 111564, Apr. 2026, doi:
+[10.1016/j.compbiomed.2026.111564](https://doi.org/10.1016/j.compbiomed.2026.111564).
 1. T. Defard, A. Blondel, S. Bellow, A. Coleon, G. Dias de Melo, F.
 Mueller, and T. Walter, “RNA2seg: A generalist model for cell
 segmentation in image-based spatial transcriptomics,” *Genome Biology*,
