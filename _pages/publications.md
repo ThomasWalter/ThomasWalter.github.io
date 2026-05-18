@@ -44,6 +44,11 @@ E. Bertrand, and T. Walter, “A deep learning approach for
 time-consistent cell cycle phase prediction from microscopy data,” *PLOS
 Computational Biology*, vol. 21, no. 12, p. e1013800, Dec. 2025, doi:
 [10.1371/journal.pcbi.1013800](https://doi.org/10.1371/journal.pcbi.1013800).
+1. D. Zyss, A. Sharma, S. A Ribeiro, C. E Repellin, O. Lai, M. J C Ludlam,
+T. Walter, and A. Fehri, “Contrastive learning for cell division
+detection and tracking in live cell imaging data,” *BMC Bioinformatics*,
+vol. 27, no. 1, p. 30, Dec. 2025, doi:
+[10.1186/s12859-025-06344-5](https://doi.org/10.1186/s12859-025-06344-5).
 1. A. Blondel, “Deep Learning Bridges Histology and Transcriptomics to
 Predict Molecular Subtypes and Outcomes in Muscle-Invasive Bladder
 Cancer.” BioRXiv, Oct. 2025, doi:
