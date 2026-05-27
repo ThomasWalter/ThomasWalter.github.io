@@ -5,6 +5,11 @@ permalink: /publications/
 
 ## 2026
 
+1. C. Zhou, S. Das, T. Defard, K. J. E. Borgman, S. Seal, V. Kappès, T.
+Walter, I. Simeonova, G. Almouzni, and A. H. Monsoro-Burq, “An optimized
+workflow for spatial transcriptomics across early development in
+Xenopus,” *bioRxiv*, p. 2026.05.07.723548, Jan. 2026, doi:
+[10.64898/2026.05.07.723548](https://doi.org/10.64898/2026.05.07.723548).
 1. L. Chadoutaud, A. Blondel, H. Feki, J. Fontugne, E. Barillot, and T.
 Walter, “LEMON: A foundation model for nuclear morphology in
 Computational Pathology.” arXiv, 2026, doi:
