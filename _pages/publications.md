@@ -5,6 +5,12 @@ permalink: /publications/
 
 ## 2026
 
+1. C. Weber, T. Defard, C. Sturmach, M. Lelek, H. Laporte, A. Mallick, M.
+I. Gariboldi, J.-A. Londoño-Vallejo, T. Walter, C. Fouillade, J. Bourg,
+and F. Mueller, “<span class="nocase">autoFISH</span>: A modular toolbox
+for sequential single-molecule RNA FISH experiments,” *Communications
+Biology*, Apr. 2026, doi:
+[10.1038/s42003-026-09979-z](https://doi.org/10.1038/s42003-026-09979-z).
 1. C. Zhou, S. Das, T. Defard, K. J. E. Borgman, S. Seal, V. Kappès, T.
 Walter, I. Simeonova, G. Almouzni, and A. H. Monsoro-Burq, “An optimized
 workflow for spatial transcriptomics across early development in
