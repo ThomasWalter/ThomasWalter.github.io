@@ -5,6 +5,21 @@ permalink: /publications/
 
 ## 2026
 
+1. M. Aubreville, J. Ammeling, S. Banerjee, V. Weiss, T. A. Donovan, R.
+Klopfleisch, J. Lv, S. E. A. Raza, R. Bourgade, T. Walter, Y. Topuz, S.
+Varlı, C.-A. Collins-Fekete, Z. Shen, N. S. Kelam, N. Singhal, C.
+Marzahl, B. Napora, T. Xu, H. Gu, M. Vento, G. Percannella, N. Ropiak,
+I. Wasiak, J. Xiao, S. Liu, S. Choe, A. Khademi, V. Walia, S. Kotte, A.
+Broad, A. Wright, G. Balezo, E. S. Nasir, M. Jahanifar, Y. Yamagishi, S.
+Hanaoka, M. Sarno, F. Tortorella, B. Meng, J. Liu, S. Krauss, D. Hieber,
+L. Ramchandani, D. K. Das, M. Ochi, Y. Bae, P. Giedziun, M. Maniewski,
+V. G. Saipradeep, N. Sivadasan, L. Benito-Del-Valle, A. Galdran, K.
+Atey, S. A. Jha, A. Dukre, I. Razzak, M. W. Lafarge, V. H. Koelzer, N.
+Porsche, N. Stathonikos, M. Veta, D. Hirling, Z. Z. Iván, P. Horvath, K.
+Breininger, and C. A. Bertram, “Mitosis Detection in the Wild:
+Multi-Tumor and Context-Aware Generalization in the MIDOG 2025
+Challenge.” arXiv, Jun. 2026, doi:
+[10.48550/arXiv.2606.07368](https://doi.org/10.48550/arXiv.2606.07368).
 1. C. Weber, T. Defard, C. Sturmach, M. Lelek, H. Laporte, A. Mallick, M.
 I. Gariboldi, J.-A. Londoño-Vallejo, T. Walter, C. Fouillade, J. Bourg,
 and F. Mueller, “<span class="nocase">autoFISH</span>: A modular toolbox
