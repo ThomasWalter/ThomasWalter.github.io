@@ -5,6 +5,14 @@ permalink: /publications/
 
 ## 2026
 
+1. N. M. Viart, L. Thibault, T. Lazard, S. Eon-Marchais, Y. Jiao, L.
+Fuhrmann, D. Le Gal, E. Cavaciuti, M.-G. Dondon, J. Beauvallet, M. De
+Brot, J. Ngeow, S.-H. Teo, M. I. Achatz, E. Santana Dos Santos, F. J.
+Couch, D. Stoppa-Lyonnet, M. C. Southey, A. Vincent-Salomon, T. Walter,
+N. Andrieu, and F. Lesueur, “Deep learning analysis of breast cancer
+histology predicts ATM pathogenic variant carrier status,” *npj Digital
+Medicine*, Jun. 2026, doi:
+[10.1038/s41746-026-02895-w](https://doi.org/10.1038/s41746-026-02895-w).
 1. M. Aubreville, J. Ammeling, S. Banerjee, V. Weiss, T. A. Donovan, R.
 Klopfleisch, J. Lv, S. E. A. Raza, R. Bourgade, T. Walter, Y. Topuz, S.
 Varlı, C.-A. Collins-Fekete, Z. Shen, N. S. Kelam, N. Singhal, C.
