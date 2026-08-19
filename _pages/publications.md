@@ -5,21 +5,20 @@ permalink: /publications/
 
 ## 2026
 
- In: Aubreville, M., Bertram, C.A. (eds) Mitotic Figure Detection and Atypia Classification in Whole Slide Images. MICCAI 2025. Lecture Notes in Computer Science, vol 16519. Springer, Cham.
-
-
 1. G. Balezo, R. Bourgade, H. Feki, L. Monnier, M. Blons, A. Blondel, E.
 Decencière, A. P. Planas, and T. Walter, “Efficient Fine-Tuning
 of DINOv3 Pretrained on Natural Images for Atypical Mitotic Figure
 Classification,” in: *Aubreville, M., Bertram, C.A. (eds), Mitotic Figure 
 Detection and Atypia Classification in Whole Slide Images*, MICCAI 2025,
 Lecture Notes in Computer Science, vol 16519. Springer, Cham, 2026, pp. 15–25.
+doi: [10.1007/978-3-032-25180-0_2](https://doi.org/10.1007/978-3-032-25180-0_2)
 1. R. Bourgade, G. Balezo, L. Monier, H. Feki, M. Blons, A. Blondel, D.
 Loussouarn, A. Vincent-Salomon, and T. Walter, “Robust Pan-Cancer
 Mitotic Figure Detection with YOLOv12,” in: *Aubreville, M., Bertram, C.A.
 (eds), Mitotic Figure Detection and Atypia Classification in Whole Slide
 Images*, MICCAI 2025, Lecture Notes in Computer Science, vol 16519. Springer,
 Cham, 2026, pp. 26–36.
+doi:[10.1007/978-3-032-25180-0_3](https://doi.org/10.1007/978-3-032-25180-0_3)
 1. N. M. Viart, L. Thibault, T. Lazard, S. Eon-Marchais, Y. Jiao, L.
 Fuhrmann, D. Le Gal, E. Cavaciuti, M.-G. Dondon, J. Beauvallet, M. De
 Brot, J. Ngeow, S.-H. Teo, M. I. Achatz, E. Santana Dos Santos, F. J.
@@ -63,18 +62,18 @@ Computational Pathology.” arXiv, 2026, doi:
 using ViT foundation models,” *Computers in Biology and Medicine*, vol.
 206, p. 111564, Apr. 2026, doi:
 [10.1016/j.compbiomed.2026.111564](https://doi.org/10.1016/j.compbiomed.2026.111564).
-1. T. Defard, A. Blondel, S. Bellow, A. Coleon, G. Dias de Melo, F.
-Mueller, and T. Walter, “RNA2seg: A generalist model for cell
-segmentation in image-based spatial transcriptomics,” *Genome Biology*,
-Jan. 2026, doi:
-[10.1186/s13059-025-03908-9](https://doi.org/10.1186/s13059-025-03908-9).
 1. A. Beaufrère, T. Lazard, R. Nicolle, G. Lubuela, J. Augustin, M.
 Albuquerque, B. Pichon, C. Pignolet, V. Priori, N. Théou-Anton, M.
 Lesurtel, M. Bouattour, K. Mondet, J. Cros, J. Calderaro, T. Walter, and
 V. Paradis, “Self-supervised learning to predict intrahepatic
 cholangiocarcinoma transcriptomic classes on routine histology,” *JHEP
-Reports*, vol. 8, no. 2, Feb. 2025, doi:
+Reports*, vol. 8, no. 2, Feb. 2026, doi:
 [10.1016/j.jhepr.2025.101675](https://doi.org/10.1016/j.jhepr.2025.101675).
+1. T. Defard, A. Blondel, S. Bellow, A. Coleon, G. Dias de Melo, F.
+Mueller, and T. Walter, “RNA2seg: A generalist model for cell
+segmentation in image-based spatial transcriptomics,” *Genome Biology*,
+Jan. 2026, doi:
+[10.1186/s13059-025-03908-9](https://doi.org/10.1186/s13059-025-03908-9).
 1. L. Chadoutaud, M. Lerousseau, D. Herrero-Saboya, J. Ostermaier, J.
 Fontugne, E. Barillot, and T. Walter,
 “<span class="nocase">sCellST</span> predicts single-cell gene
