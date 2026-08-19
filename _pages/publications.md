@@ -5,6 +5,21 @@ permalink: /publications/
 
 ## 2026
 
+ In: Aubreville, M., Bertram, C.A. (eds) Mitotic Figure Detection and Atypia Classification in Whole Slide Images. MICCAI 2025. Lecture Notes in Computer Science, vol 16519. Springer, Cham.
+
+
+1. G. Balezo, R. Bourgade, H. Feki, L. Monnier, M. Blons, A. Blondel, E.
+Decencière, A. P. Planas, and T. Walter, “Efficient Fine-Tuning
+of DINOv3 Pretrained on Natural Images for Atypical Mitotic Figure
+Classification,” in: *Aubreville, M., Bertram, C.A. (eds), Mitotic Figure 
+Detection and Atypia Classification in Whole Slide Images*, MICCAI 2025,
+Lecture Notes in Computer Science, vol 16519. Springer, Cham, 2026, pp. 15–25.
+1. R. Bourgade, G. Balezo, L. Monier, H. Feki, M. Blons, A. Blondel, D.
+Loussouarn, A. Vincent-Salomon, and T. Walter, “Robust Pan-Cancer
+Mitotic Figure Detection with YOLOv12,” in: *Aubreville, M., Bertram, C.A.
+(eds), Mitotic Figure Detection and Atypia Classification in Whole Slide
+Images*, MICCAI 2025, Lecture Notes in Computer Science, vol 16519. Springer,
+Cham, 2026, pp. 26–36.
 1. N. M. Viart, L. Thibault, T. Lazard, S. Eon-Marchais, Y. Jiao, L.
 Fuhrmann, D. Le Gal, E. Cavaciuti, M.-G. Dondon, J. Beauvallet, M. De
 Brot, J. Ngeow, S.-H. Teo, M. I. Achatz, E. Santana Dos Santos, F. J.
