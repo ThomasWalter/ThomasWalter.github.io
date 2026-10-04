@@ -19,17 +19,17 @@ My current positions:
 
 - Professor at [Ecole des Mines de Paris](https://www.minesparis.psl.eu)
 - Director of the [Centre for Computational Biology (CBIO)](https://cbio.ensmp.fr)
-- Codirector of the department [Cancer and Genome: Bioinformatics, Biostatistics, Epidemiology of Complex Systems](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/)
+- Codirector of the department [Computational Oncology](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/)
 - Chair at the Paris Artifical Intelligence Research Institute [PRAIRIE](https://prairie-institute.fr)
 
 
 ## Centre for Computational Biology (CBIO)
 
-The [CBIO](https://cbio.ensmp.fr) is a research centre of [Mines ParisTech](https://www.minesparis.psl.eu), a major engineering school for applied mathematics in France. Our research focuses on the development of **Machine Learning methods** for live sciences, with applications both in fundamental biology and medicine. At the CBIO, we are 5 permanent researchers covering a variety of application areas, such as Chemoinformatics, Genome-Wide Association Studies, the analysis of electronic health records, phenotypic screening or digital pathology. 
+The [CBIO](https://cbio.ensmp.fr) is a research centre of [Mines ParisTech](https://www.minesparis.psl.eu), a major engineering school for applied mathematics in France. Our research focuses on the development of **Machine Learning methods** for live sciences, with applications both in fundamental biology and medicine. At the CBIO, we are 6 permanent researchers covering a variety of application areas, such as Chemoinformatics, Genome-Wide Association Studies, the analysis of electronic health records, phenotypic screening or digital pathology. 
 
 ![Mines ParisTech - PSL](/images/Mines_paristech.png)
 
-The CBIO has a strategic partnership with the [Institut Curie](https://curie.fr) and INSERM, and is part of the mixed unit [U900-CBIO](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/) dedicated to Bioinformatics, Epidemiology and Systems Biology of cancer.  
+The CBIO has a strategic partnership with the [Institut Curie](https://curie.fr) and INSERM, and is part of the mixed unit [U1331-CBIO](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/) dedicated to Bioinformatics, Epidemiology and Systems Biology of cancer.  
 
 
 ## Bioimage Analysis at the CBIO and the Institut Curie
@@ -41,8 +41,10 @@ My own research field is **Bioimage Informatics**. My team develops methods and 
 The main application areas in my team are:
 - **High Content Screening** : family of experimental techniques to perform hundreds / thousands of imaging experiments to test large panels of perturbations (such as drug effects or gene knock-downs). 
 - **Digital Pathology** : imaging technique routinely used in clinical practice, where diseased tissue slides are stained and scanned. 
+- **Spatial Omics** : techniques to molecularly profile tissues, both at the transcriptomic and the proteomic level. 
 
-Our main workhorse today is Deep Learning, often complemented by traditional image analysis techniques and other data science techniques for down-stream analysis of the results. 
+For this, we develop cutting-edge Computer Vision methods, including Deep Learning, Multiple Instance Learning, self-supervised learning and foundation models. 
+
 
 <!-- <div style="margin-top: 32px;vertical-align=bottom">
 	<img style="width: 240px; height:240px;margin-right: 20px; float:left;" 
