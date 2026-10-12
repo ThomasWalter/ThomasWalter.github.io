@@ -15,12 +15,12 @@ permalink: /teaching/
 ## Previous Teaching activities
 
 - 2021: EMBO practical course on Advanced Methods in Bioimage Analysis (lecturer)
-- 2020: Deep Learning for biology and medicine (organizer/lecturer, Institut Curie)
+- 2020: Deep Learning for biology and medicine (co-organizer/lecturer, Institut Curie)
 - 2020-2022: PSL interdisciplinary classes on machine learning applied to genomics (lecturer)
-- 2018-2022: MifoBio – summer school on functional microscopy (organizer/lecturer, GDR ImaBio)
+- 2018-2022: MifoBio – summer school on functional microscopy (co-organizer/lecturer, GDR ImaBio)
 - 2018: Data Science Summer School: Bioimage Informatics (lecturer, École Polytechnique)
 - 2017-2022: Master Course on Machine Learning for Biology and Chemistry (lecturer, ENS)
-- 2014-2019: Master Course on Genome Biology and Bioinformatics at Mines ParisTech (organizer/lecturer, Mines Paris)
+- 2014-2019: Master Course on Genome Biology and Bioinformatics at Mines ParisTech (co-organizer/lecturer, Mines Paris)
 - 2015-2017: Molecular Biology of the Cell (lecturer, Institut Pasteur / Institut Curie)
 - 2015: Image Analysis for Biologists (lecturer, University Cambridge)
 - 2013-2023: Bioimage Informatics for Computational Phenotyping (Master IRIV, lecturer, Télécom Physique Strasbourg)
